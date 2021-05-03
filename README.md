@@ -2,9 +2,6 @@
 
 
 1. Data from SVB
-source data 
---> account number extracted --> CSR to customer account
---> no account number --> SVB vested account  
-
-2. 
-a
+2. source data 
+3. account number extracted --> CSR to customer account
+4. no account number --> SVB vested account  
